@@ -1,2 +1,1 @@
-
-31500
+This project represents an e-commerce website that I created as a primary assignment during my initial semester of studies, serving as a foundational learning experience in web development and practical application of programming concepts.
